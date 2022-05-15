@@ -1,6 +1,6 @@
 # Hackathon
 
-## Hacking the Ocean
+## HACK THE OCEAN
 
 **Dependencias**
 
